@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.customgit26nov.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">CustomGit26NovProject</value>
+  <value name="is_public">false</value>
+  <value name="assetId">CustomGit26NovProject.project.customgit26nov.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhp://stage00-prod731523-um-0.int-prod731523.svc.cluster.local:9000/</value>
+  <value name="clientId">EMe88f8a0b12ab44b0ba58c67b7ad17c70</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties">streaming.connection.factory=embeddedMessaging</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Munatri.Baruah@ibm.com</value>
+    <value name="modifiedBy">Munatri.Baruah@ibm.com</value>
+    <value name="createdDate">2026-11-26T04:19:59.358974081Z</value>
+    <value name="lastModifiedDate">2026-11-26T04:19:59.358974081Z</value>
+  </record>
+</Values>
